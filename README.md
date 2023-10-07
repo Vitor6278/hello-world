@@ -1,2 +1,2 @@
 # hello-world
-Exercício do módulo 1
+Meu primeiro código.
